@@ -1,0 +1,20 @@
+#slide1, #slide2, #slide3, #slide4 {
+	height: 1000px;
+	padding-top:100px;
+}
+#slide1 {
+	background:url('css/home.jpg') center 0 no-repeat fixed;
+	background-size: cover; 	
+}
+#slide2 {
+	background:url('css/realisation.jpg') center 0 no-repeat fixed;	
+	background-size: cover; 
+}
+#slide3 {
+	background:url('css/cv.png') center 0 no-repeat fixed;
+	background-size: cover; 	
+}
+#slide4 {
+	background:url('css/contact.jpg') center 0 no-repeat fixed;
+	background-size: cover; 	
+}
